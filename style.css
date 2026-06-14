@@ -1,6 +1,4 @@
-/* =========================
-   GLOBAL STYLES
-========================= */
+/*GLOBAL STYLES*/
 
 *{
     margin:0;
@@ -15,9 +13,7 @@ body{
 }
 
 
-/* =========================
-   PAGE 1 - HIKING BANNER
-========================= */
+/*PAGE 1 - HIKING BANNER*/
 
 .banner{
     width:100%;
@@ -129,9 +125,7 @@ nav ul li a{
 }
 
 
-/* =========================
-   PAGE 2 - CAMPING
-========================= */
+/* PAGE 2 - CAMPING */
 
 .camping-section{
     width:100%;
@@ -218,9 +212,7 @@ nav ul li a{
 }
 
 
-/* =========================
-   PAGE 3 - ROCK CLIMBING
-========================= */
+/* PAGE 3 - ROCK CLIMBING */
 
 .rock-climbing-section{
     width:100%;
@@ -338,9 +330,7 @@ nav ul li a{
 }
 
 
-/* =========================
-   PAGE 4 - HERO SECTION
-========================= */
+/*PAGE 4 - HERO SECTION*/
 
 .hero{
     height:700px;
@@ -408,9 +398,7 @@ nav ul li a{
 }
 
 
-/* =========================
-   RESPONSIVE
-========================= */
+/* RESPONSIVE */
 
 @media(max-width:1200px){
 
