@@ -27,11 +27,16 @@ template-clone/
 └── README.md
 
 How to Run
+
 Clone the repository.
+
 Open the project folder.
+
 Open index.html in a browser.
 
 
 Contributors
+
 Sakshi Pawar
+
 Deepanshi Khandelwa
