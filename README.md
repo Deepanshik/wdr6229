@@ -24,4 +24,4 @@ Project Structure
 
 Sakshi Pawar
 
-Deepanshi Khandelwa
+Deepanshi Khandelwal
